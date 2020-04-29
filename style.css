@@ -1,5 +1,8 @@
 body {
    color: white;
-   background-color: black;
+   background-color: #333;
+   font-size: 150%;
+   font-family: 'Satisfy', cursive;
+   margin: 5em 25%;
    transform: translateX(60px) translateY(60px) skew(4deg, 5deg);
 }
