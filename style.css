@@ -1,6 +1,7 @@
 body {
    color: white;
-   background-color: black;
+   background-color: #333;
+   font-size: 150%;
    transform: translateX(60px) translateY(60px) skew(4deg, 5deg);
    font-family: 'Sacramento', cursive;
    font-size: 32px;
